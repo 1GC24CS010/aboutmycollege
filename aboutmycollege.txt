@@ -1,0 +1,11 @@
+Title : GCE
+Full Name : Ghousia College of Engineering
+College Code : GCE
+Affiliation : VTU, Belagavi
+Year of Establishment : 1980
+No. of Branches : 03
+Departments : CS, IS, and EC
+Mobile No. : 080-27273577
+Email ID : principalgce@gmail.com
+Address : B.M. Road, Ramanagaram - 562 159
+
